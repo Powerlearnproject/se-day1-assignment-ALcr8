@@ -9,6 +9,7 @@ Software engineering is the application of engineering principles and techniques
 Software engineering is crucial in the technology industry so as to optimize software development processes, reducing development time and costs, so as to ensure that software products meet the required quality standards.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+Milestones include the development of programming languages (e.g., Fortran, C, Python, Java etc), the establishment of software engineering as a discipline in the 1960s, and the advent of structured programming in the 1970s.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
@@ -38,29 +39,28 @@ Version Control Systems (VCS) are software tools for tracking changes to source 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Common challenges faced by software engineers and strategies to overcome them include:
 1.Complexity and Technical Debt
-    - Break down complex problems into smaller tasks.
-    - Refactor code regularly.
-    - Implement automated testing.
+- Break down complex problems into smaller tasks.
+- Implement automated testing.
 2.Time Management and Deadlines
-    - Prioritize tasks using Agile methodologies.
-    - Set realistic deadlines.
-    - Use time-tracking tools.
+- Prioritize tasks using Agile methodologies.
+- Set realistic deadlines.
+- Use time-tracking tools.
 3.Collaboration and Communication
-    - Establish clear communication channels.
-    - Use collaboration tools (e.g., Slack, Trello).
-    - Practice active listening.
+- Establish clear communication channels.
+- Use collaboration tools (e.g., Slack, Trello).
+- Practice active listening.
 4.Staying Up-to-Date with Technology
-    - Attend conferences and workshops.
-    - Participate in online communities (e.g., GitHub, Stack Overflow).
-    - Set aside time for learning.
+- Attend conferences and workshops.
+- Participate in online communities (e.g., GitHub, Stack Overflow).
+- Set aside time for learning.
 5.Debugging and Troubleshooting
-    - Use debugging tools (e.g., print statements, debuggers).
-    - Implement logging and monitoring.
-    - Collaborate with colleagues.
+- Use debugging tools (e.g., print statements, debuggers).
+- Implement logging and monitoring.
+- Collaborate with colleagues.
 6.Meeting Customer Requirements
-    - Engage in customer feedback loops.
-    - Use Agile methodologies for iterative development.
-    - Prioritize customer needs.
+- Engage in customer feedback loops.
+- Use Agile methodologies for iterative development.
+- Prioritize customer needs.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit Testing: Testing individual components or modules of software.
