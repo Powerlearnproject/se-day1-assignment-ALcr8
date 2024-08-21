@@ -21,16 +21,14 @@ The evolution of software engineering has been marked by several key milestones 
 These milestones reflect the ongoing evolution of software engineering as a discipline, emphasizing the need for adaptability, structured processes, and a focus on collaboration and customer needs
 
 List and briefly explain the phases of the Software Development Life Cycle.
-Requirements gathering
-Design
-Implementation
-Testing
-Deployment
-Maintenance
+(1)Requirements - gathering user needs and documenting system requirements 
+(2)Design -creating high level and detailed designs of the software architecture and user interface
+(3)Implementation - code writng and building the software according to the software specifications
+(4)Testing - conducting tests and ensuring software meets quality standards and functional requirements 
+(5)Deployment - relasing the software to the customers or users
     
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-1. Overview: (a) Waterfall: This Model is a linear and sequential approach to software development. It is very rigid.   (b)Agile: is an iterative and flexible approach focusing on continuous delivery and collaboration.
-2. Testing: (a) Waterfall: Testing is performed after the development phase is completed. (b) Agile: Testing is integrated into every sprint, enabling early detection and resolution of issues, leading to higher product quality.
+Waterfall methodologies is a sequential approach with distinct phases eg requirements, design, implementation. flowing downwards like a waterfall. whereas agile is and iterative and incremental approach focues on flexiblity, collaboration and responding to change
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 A Software Developer’s job is to write the code that powers the application. They’re the ones who translate the project’s requirements into functional, efficient, and maintainable code. Developers are problem solvers at heart—they take on technical challenges, devise solutions, and ensure the software can scale and adapt as needed. Besides writing new code, they also review code from other team members to catch any issues early and maintain overall code quality. Developers are also involved in testing their code, debugging issues, and collaborating closely with designers, QA engineers, and project managers to bring the project together.
