@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is the application of engineering principles and techniques to design, develop, test, and maintain software systems. It involves a systematic approach to software development, ensuring that software products are reliable, efficient, scalable, and meet the required specifications.
+It is the application of engineering principles and techniques to design, develop, test, and maintain software systems. It involves a systematic approach to software development, ensuring that software products are reliable, efficient, scalable, and meet the required specifications.
 Software engineering is crucial in the technology industry so as to optimize software development processes, reducing development time and costs, so as to ensure that software products meet the required quality standards.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
@@ -13,7 +13,6 @@ Milestones include the development of programming languages (e.g., Fortran, C, P
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-The Software Development Life Cycle (SDLC) consists of several phases, including:
 Requirements: Gathering and documenting user needs and system requirements.
 Design: Creating high-level and detailed designs of the software architecture and user interface.
 Implementation: Writing code and building the software according to the design specifications.
@@ -22,7 +21,6 @@ Deployment: Releasing the software to users or customers.
 Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall is suitable for projects with well-defined requirements and low risk of change, while Agile is suitable for projects with uncertain or changing requirements and a need for rapid delivery and iteration.
 Waterfall is suitable for projects with well-defined requirements, fixed timelines and budget. e.g Government projects, safety-critical systems, large-scale enterprise software
 Agile is suitable for projects with uncertain or changing requirements, rapid delivery and iteration. e.g Startup products, mobile apps, web development etc.
 
