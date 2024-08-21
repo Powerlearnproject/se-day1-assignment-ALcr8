@@ -14,12 +14,12 @@ Milestones include the development of programming languages (e.g., Fortran, C, P
 
 List and briefly explain the phases of the Software Development Life Cycle.
 The Software Development Life Cycle (SDLC) consists of several phases, including:
-  - Requirements: Gathering and documenting user needs and system requirements.
-  - Design: Creating high-level and detailed designs of the software architecture and user interface.
-  - Implementation: Writing code and building the software according to the design specifications.
-  - Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
-  - Deployment: Releasing the software to users or customers.
-  - Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
+Requirements: Gathering and documenting user needs and system requirements.
+Design: Creating high-level and detailed designs of the software architecture and user interface.
+Implementation: Writing code and building the software according to the design specifications.
+Testing: Conducting various tests to ensure the software meets quality standards and functional requirements.
+Deployment: Releasing the software to users or customers.
+Maintenance: Providing ongoing support, updates, and enhancements to the software after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall is suitable for projects with well-defined requirements and low risk of change, while Agile is suitable for projects with uncertain or changing requirements and a need for rapid delivery and iteration.
@@ -39,34 +39,34 @@ Version Control Systems (VCS) are software tools for tracking changes to source 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Common challenges faced by software engineers and strategies to overcome them include:
 1.Complexity and Technical Debt
-- Break down complex problems into smaller tasks.
-- Implement automated testing.
+Break down complex problems into smaller tasks.
+Implement automated testing.
 2.Time Management and Deadlines
-- Prioritize tasks using Agile methodologies.
-- Set realistic deadlines.
-- Use time-tracking tools.
+Prioritize tasks using Agile methodologies.
+Set realistic deadlines.
+Use time-tracking tools.
 3.Collaboration and Communication
-- Establish clear communication channels.
-- Use collaboration tools (e.g., Slack, Trello).
-- Practice active listening.
+Establish clear communication channels.
+Use collaboration tools (e.g., Slack, Trello).
+Practice active listening.
 4.Staying Up-to-Date with Technology
-- Attend conferences and workshops.
-- Participate in online communities (e.g., GitHub, Stack Overflow).
-- Set aside time for learning.
+Attend conferences and workshops.
+Participate in online communities (e.g., GitHub, Stack Overflow).
+Set aside time for learning.
 5.Debugging and Troubleshooting
-- Use debugging tools (e.g., print statements, debuggers).
-- Implement logging and monitoring.
-- Collaborate with colleagues.
+Use debugging tools (e.g., print statements, debuggers).
+Implement logging and monitoring.
+Collaborate with colleagues.
 6.Meeting Customer Requirements
-- Engage in customer feedback loops.
-- Use Agile methodologies for iterative development.
-- Prioritize customer needs.
+Engage in customer feedback loops.
+Use Agile methodologies for iterative development.
+Prioritize customer needs.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 Unit Testing: Testing individual components or modules of software.
-  - Integration Testing: Testing interactions between different components or subsystems.
-  - System Testing: Testing the entire software system as a whole.
-  - Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
+Integration Testing: Testing interactions between different components or subsystems.
+System Testing: Testing the entire software system as a whole.
+Acceptance Testing: Testing the software against user requirements to ensure it meets user needs.
 Quality control measures such as code reviews, automated testing, and continuous integration help identify and fix defects early in the development process, leading to higher-quality software products
 
 #Part 2: Introduction to AI and Prompt Engineering
@@ -75,11 +75,11 @@ Quality control measures such as code reviews, automated testing, and continuous
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt Engineering is the process of designing and optimizing text prompts to effectively interact with AI models, such as language models, chatbots, and other machine learning systems. It involves crafting clear, specific, and well-structured prompts to elicit desired responses, improve accuracy, and enhance overall performance.
 Importance of Prompt Engineering include:
-1. Improved accuracy
-2. Enhanced user experience
-3. Increased efficiency
-4. Better decision-making 
-5. Unlocking AI potential
+1.Improved accuracy
+2.Enhanced user experience
+3.Increased efficiency
+4.Better decision-making 
+5.Unlocking AI potential
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 Vague Prompt:"Write a short story"
