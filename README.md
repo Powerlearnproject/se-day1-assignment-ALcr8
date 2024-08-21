@@ -5,7 +5,7 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-Software engineering is the application of engineering principles and techniques to design, develop, test, and maintain software systems. It involves a systematic approach to software development, ensuring that software products are reliable, efficient, scalable, and meet the required specifications. Software engineering is crucial in the technology industry so as to optimize software development processes, reducing development time and costs, so as to ensure that software products meet the required quality standards.
+Software engineering is the application of engineering principles and techniques to the design, development, testing, and maintenance of software systems. It is important in the technology industry because it ensures that software is reliable and meets the requirements of end users.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 The evolution of software engineering has been marked by several key milestones that have shaped the discipline. Here are three significant ones:
@@ -19,17 +19,15 @@ The evolution of software engineering has been marked by several key milestones 
 These milestones reflect the ongoing evolution of software engineering as a discipline, emphasizing the need for adaptability, structured processes, and a focus on collaboration and customer needs
 
 List and briefly explain the phases of the Software Development Life Cycle.
-    - Requirements gathering
-    - Design
-    - Implementation
-    - Testing
-    - Deployment
-    - Maintenance
+Requirements gathering
+Design
+Implementation
+Testing
+Deployment
+Maintenance
     
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-Waterfall is suitable for projects with well-defined requirements and low risk of change, while Agile is suitable for projects with uncertain or changing requirements and a need for rapid delivery and iteration.
-Waterfall is suitable for projects with well-defined requirements, fixed timelines and budget. e.g Government projects, safety-critical systems, large-scale enterprise software
-Agile is suitable for projects with uncertain or changing requirements, rapid delivery and iteration. e.g Startup products, mobile apps, web development, research and development
+Waterfall and Agile are two distinct software development methodologies. Waterfall is a linear approach that emphasizes predictability and stability, with requirements gathered upfront and little change allowed later. It's suitable for projects with well-defined requirements, fixed timelines and budgets, and low risk and complexity. Agile, on the other hand, is an iterative approach that emphasizes flexibility and adaptability, with requirements gathered and refined continuously. It's suitable for projects with uncertain or changing requirements, rapidly evolving technology or market, and high risk or complexity. In essence, Waterfall is ideal for stable and predictable projects, while Agile is better suited for dynamic and adaptive projects.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 A Software Developer’s job is to write the code that powers the application. They’re the ones who translate the project’s requirements into functional, efficient, and maintainable code. Developers are problem solvers at heart—they take on technical challenges, devise solutions, and ensure the software can scale and adapt as needed. Besides writing new code, they also review code from other team members to catch any issues early and maintain overall code quality. Developers are also involved in testing their code, debugging issues, and collaborating closely with designers, QA engineers, and project managers to bring the project together.
